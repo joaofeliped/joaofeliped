@@ -21,7 +21,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.2]][3].
+You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([1])
 
 <!-- Icons -->
 
