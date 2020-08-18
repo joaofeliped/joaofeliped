@@ -25,7 +25,7 @@ You can find me on [![LinkedIn][1.2]][3].
 
 <!-- Icons -->
 
-[1.2]: https://imgur.com/t/linkedinicon/WLO1O (LinkedIn icon without padding)
+[1.2]: https://i.imgur.com/0IdggSZ.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
