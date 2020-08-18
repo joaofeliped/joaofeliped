@@ -21,7 +21,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([1])
+You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/joão-felipe-duarte-pessanha-2a9965b0/)
 
 <!-- Icons -->
 
